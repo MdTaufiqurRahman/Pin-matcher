@@ -29,7 +29,7 @@ body {
     text-align: center;
 }
 .generate-btn:hover{
-    background-color: #5c71e4;
+    background-color: #8d8408;
 }
 .generate-btn:focus{
     outline: none;
@@ -85,7 +85,7 @@ border-radius: 10px;
 cursor: pointer;
 }
 .button:hover{
-    background: #56595e;
+    background: #8d8408;
 }
 .blink-me {
 color: #E0B612;
@@ -99,7 +99,7 @@ color: #E0B612;
     color: #fff;
 }
 .submit-btn:hover{
-    background: #6379f1;
+    background: #8d8408;
 }
 .notify {
     color: #fff;
